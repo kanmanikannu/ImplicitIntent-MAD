@@ -42,6 +42,7 @@ super.onCreate(savedInstanceState);
 ```
 
 ## OUTPUT
+![MAD](https://github.com/kanmanikannu/ImplicitIntent-MAD/assets/114866367/373adb60-e076-49f9-979e-30500cb5b8a6)
 
 
 
